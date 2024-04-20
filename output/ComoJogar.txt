@@ -1,0 +1,15 @@
+---------------------------------------- Como Jogar? ----------------------------------------
+
+1. O jogador 1 escolhe qual peca quer jogar ('o' ou 'x');
+
+2. As pecas 'o' comecam, entao o primeiro turno sera do jogador que ficou com elas;
+
+3. Para escolher a peca o jogador deve digitar a linha da peca (a - h) e a coluna (0 - 7);
+	
+	Ex.:
+		Escolha uma peca: f 0
+		Escolha um movimento: e 1
+
+4. Para escolher o movimento da peca escolhida, o jogador deve escolher a casa de destino 
+   usando o mesmo metodo anterior;
+

@@ -1,0 +1,22 @@
+-------------------------------------------------- Regras --------------------------------------------------
+
+1. O jogo e jogado em um tabuleiro quadrado de 64 casas (8x8);
+
+2. Cada jogador comeca com 12 pecas colocadas nas fileiras mais proximas a eles;
+
+3. As pecas movem-se diagonalmente para frente, uma casa por vez;
+
+4. As capturas sao feitas movendo-se sobre a peca adversaria para uma casa vazia alem dela;
+
+5. Quando uma peca atinge a ultima fileira do oponente, ela e promovida a uma "dama" e ganha maior mobilidade;
+
+6. As damas movem-se diagonalmente para frente ou para tras uma casa por vez, capturando da mesma maneira;
+
+7. O objetivo e capturar todas as pecas do oponente;
+
+8. As pecas se movimentam sobre os espacos em preto;
+
+9. O jogo sempre comeca com as pecas brancas (o);
+
+10. A captura em cadeia e obrigatoria caso esteja disponivel para o jogador atual.
+
